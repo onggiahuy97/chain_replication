@@ -1,0 +1,3 @@
+[console_scripts]
+minikv = minikv:serve
+minikv-no-replication = minikv.no_replication:serve
